@@ -1,0 +1,8 @@
+Name: hfbvhdb
+Phone Number: dsvnjnsvnjsd
+Kitta Number: 105
+City: Lahan
+Direction: North
+Area: 12
+Price: 600000
+Status: Land rented successfully

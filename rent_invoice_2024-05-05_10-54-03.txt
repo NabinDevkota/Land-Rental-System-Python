@@ -1,0 +1,8 @@
+Name: wef
+Phone Number: wdfwfwefwef
+Kitta Number: 102
+City: Chitwan
+Direction: Southeast
+Area: 12
+Price: 195000
+Status: Land rented successfully

@@ -1,0 +1,8 @@
+Name: nabin
+Phone Number: 1334648990
+Kitta Number: 102
+City: Chitwan
+Direction: Southeast
+Area: 12
+Price: 325000
+Status: Land rented successfully
