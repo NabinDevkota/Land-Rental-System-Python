@@ -1,0 +1,8 @@
+Name: wqdqd
+Phone Number: scscadqwd
+Kitta Number: 104
+City: Janakpur
+Direction: Southwest
+Area: 9
+Price: 190000
+Status: Land rented successfully

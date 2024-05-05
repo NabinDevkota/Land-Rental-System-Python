@@ -1,0 +1,9 @@
+Name: nabin
+Phone Number: 1234567998
+Kitta Number: 103
+City: Ilam
+Direction: East
+Area: 5
+Duration (months): 6
+Price: 540000
+Status: Land rented successfully

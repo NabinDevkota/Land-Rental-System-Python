@@ -1,58 +1,75 @@
 [
     {
-      "Kitta": 100,
-      "City/District": "Kathmandu",
-      "Direction of land": "East",
-      "Aana": 8,
-      "Price": 100000,
-      "Availability Status": "Available"
+        "Kitta": 100,
+        "City/District": "Kathmandu",
+        "Direction of land": "East",
+        "Aana": 8,
+        "Price": 100000,
+        "Availability Status": "Available",
+        "Status": "Unavailable"
     },
     {
-      "Kitta": 101,
-      "City/District": "Hetauda",
-      "Direction of land": "Southwest",
-      "Aana": 10,
-      "Price": 80000,
-      "Availability Status": "Not Available"
+        "Kitta": 101,
+        "City/District": "Hetauda",
+        "Direction of land": "Southwest",
+        "Aana": 10,
+        "Price": 80000,
+        "Availability Status": "Not Available"
     },
     {
-      "Kitta": 102,
-      "City/District": "Chitwan",
-      "Direction of land": "Southeast",
-      "Aana": 12,
-      "Price": 65000,
-      "Availability Status": "Not Available"
+        "Kitta": 102,
+        "City/District": "Chitwan",
+        "Direction of land": "Southeast",
+        "Aana": 12,
+        "Price": 65000,
+        "Availability Status": "Not Available"
     },
     {
-      "Kitta": 103,
-      "City/District": "Ilam",
-      "Direction of land": "East",
-      "Aana": 5,
-      "Price": 90000,
-      "Availability Status": "Available"
+        "Kitta": 103,
+        "City/District": "Ilam",
+        "Direction of land": "East",
+        "Aana": 5,
+        "Price": 90000,
+        "Availability Status": "Available"
     },
     {
-      "Kitta": 104,
-      "City/District": "Janakpur",
-      "Direction of land": "Southwest",
-      "Aana": 9,
-      "Price": 95000,
-      "Availability Status": "Not Available"
+        "Kitta": 104,
+        "City/District": "Janakpur",
+        "Direction of land": "Southwest",
+        "Aana": 9,
+        "Price": 95000,
+        "Availability Status": "Not Available"
     },
     {
-      "Kitta": 105,
-      "City/District": "Lahan",
-      "Direction of land": "North",
-      "Aana": 12,
-      "Price": 120000,
-      "Availability Status": "Available"
+        "Kitta": 105,
+        "City/District": "Lahan",
+        "Direction of land": "North",
+        "Aana": 12,
+        "Price": 120000,
+        "Availability Status": "Available"
     },
     {
-      "Kitta": 106,
-      "City/District": "Pokhara",
-      "Direction of land": "East",
-      "Aana": 11,
-      "Price": 150000,
-      "Availability Status": "Available"
+        "Kitta": 106,
+        "City/District": "Pokhara",
+        "Direction of land": "East",
+        "Aana": 11,
+        "Price": 150000,
+        "Availability Status": "Available"
+    },
+    {
+        "Kitta": 107,
+        "City/District": "Dhangadhi",
+        "Direction of land": "East",
+        "Aana": 4,
+        "Price": 50000,
+        "Availability Status": "Available"
+    },
+    {
+        "Kitta": 108,
+        "City/District": "Birgunj",
+        "Direction of land": "west",
+        "Aana": 5,
+        "Price": 40000,
+        "Availability Status": "Available"
     }
-  ]
+]

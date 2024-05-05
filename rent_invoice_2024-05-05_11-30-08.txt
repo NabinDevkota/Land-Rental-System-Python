@@ -1,0 +1,8 @@
+Name: ewfewfwef
+Phone Number: 3242423424
+Kitta Number: 100
+City: Kathmandu
+Direction: East
+Area: 8
+Price: 3200000
+Status: Land rented successfully

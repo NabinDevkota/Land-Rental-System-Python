@@ -1,0 +1,9 @@
+Name: Nabin
+Phone Number: 9840000000
+Kitta Number: 103
+City: Ilam
+Direction: East
+Area: 5
+Duration (months): 4
+Price: 360000
+Status: Land rented successfully

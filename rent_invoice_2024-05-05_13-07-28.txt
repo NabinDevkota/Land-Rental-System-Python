@@ -1,0 +1,9 @@
+Name: Nabin Devkota
+Phone Number: 3214569870
+Kitta Number: 108
+City: Birgunj
+Direction: west
+Area: 5
+Duration (months): 2
+Price: 80000
+Status: Land rented successfully

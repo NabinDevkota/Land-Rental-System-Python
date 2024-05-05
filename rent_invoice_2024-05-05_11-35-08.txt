@@ -1,8 +1,9 @@
-Name: Dev
-Phone Number: 123456789
+Name: Nabin
+Phone Number: 1234567890
 Kitta Number: 102
 City: Chitwan
 Direction: Southeast
 Area: 12
-Price: 130000
+Duration (months): 1
+Price: 65000
 Status: Land rented successfully

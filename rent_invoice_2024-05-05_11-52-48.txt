@@ -1,0 +1,9 @@
+Name: Devkota
+Phone Number: 1234567890
+Kitta Number: 100
+City: Kathmandu
+Direction: East
+Area: 8
+Duration (months): 5
+Price: 500000
+Status: Land rented successfully

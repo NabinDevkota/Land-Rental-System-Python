@@ -1,8 +1,0 @@
-Name: Nabin
-Phone Number: 1234567890
-Kitta Number: 101
-City: Hetauda
-Direction: Southwest
-Area: 10
-Price: 400000
-Status: Land rented successfully

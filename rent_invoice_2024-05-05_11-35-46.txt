@@ -1,8 +1,9 @@
-Name: Devkota
-Phone Number: 1234567890
+Name: wawdawwa
+Phone Number: feffwefefqf
 Kitta Number: 103
 City: Ilam
 Direction: East
 Area: 5
-Price: 90000
+Duration (months): 2
+Price: 180000
 Status: Land rented successfully

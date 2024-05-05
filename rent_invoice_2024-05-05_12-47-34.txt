@@ -1,0 +1,9 @@
+Name: Nabin Devkota
+Phone Number: 1234567890
+Kitta Number: 106
+City: Pokhara
+Direction: East
+Area: 11
+Duration (months): 6
+Price: 900000
+Status: Land rented successfully

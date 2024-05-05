@@ -1,0 +1,9 @@
+Name: 2
+Phone Number: 9888888888
+Kitta Number: 101
+City: Hetauda
+Direction: Southwest
+Area: 10
+Duration (months): 1
+Price: 80000
+Status: Rented

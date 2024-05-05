@@ -1,0 +1,9 @@
+Name: Nabin
+Phone Number: 98400000000
+Kitta Number: 102
+City: Chitwan
+Direction: Southeast
+Area: 12
+Duration (months): 5
+Price: 325000
+Status: Land rented successfully
