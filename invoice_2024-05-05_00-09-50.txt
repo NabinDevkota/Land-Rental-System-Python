@@ -1,0 +1,8 @@
+Name: Dev
+Phone Number: 123456789
+Kitta Number: 102
+City: Chitwan
+Direction: Southeast
+Area: 12
+Price: 130000
+Status: Land rented successfully

@@ -1,0 +1,8 @@
+Name: Devkota
+Phone Number: 1234567890
+Kitta Number: 103
+City: Ilam
+Direction: East
+Area: 5
+Price: 90000
+Status: Land rented successfully

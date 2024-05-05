@@ -1,6 +1,6 @@
 [
     {
-      "Kitta no.": 100,
+      "Kitta": 100,
       "City/District": "Kathmandu",
       "Direction of land": "East",
       "Aana": 8,
@@ -8,7 +8,7 @@
       "Availability Status": "Available"
     },
     {
-      "Kitta no.": 101,
+      "Kitta": 101,
       "City/District": "Hetauda",
       "Direction of land": "Southwest",
       "Aana": 10,
@@ -16,7 +16,7 @@
       "Availability Status": "Not Available"
     },
     {
-      "Kitta no.": 102,
+      "Kitta": 102,
       "City/District": "Chitwan",
       "Direction of land": "Southeast",
       "Aana": 12,
@@ -24,7 +24,7 @@
       "Availability Status": "Not Available"
     },
     {
-      "Kitta no.": 103,
+      "Kitta": 103,
       "City/District": "Ilam",
       "Direction of land": "East",
       "Aana": 5,
@@ -32,7 +32,7 @@
       "Availability Status": "Available"
     },
     {
-      "Kitta no.": 104,
+      "Kitta": 104,
       "City/District": "Janakpur",
       "Direction of land": "Southwest",
       "Aana": 9,
@@ -40,7 +40,7 @@
       "Availability Status": "Not Available"
     },
     {
-      "Kitta no.": 105,
+      "Kitta": 105,
       "City/District": "Lahan",
       "Direction of land": "North",
       "Aana": 12,
@@ -48,7 +48,7 @@
       "Availability Status": "Available"
     },
     {
-      "Kitta no.": 106,
+      "Kitta": 106,
       "City/District": "Pokhara",
       "Direction of land": "East",
       "Aana": 11,
